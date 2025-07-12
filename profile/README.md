@@ -1,8 +1,12 @@
-![Tokari Works Brandlogo](../assets/brandlogo.png)
+<div align="center">
 
+![Tokari Works Brandlogo](../assets/brandlogo.png)
+  
 _A development collective writing systems as carefully as it writes stories._
 
 私たちは、感情を構造に変える。We turn emotion into structure.
+
+</div>
 
 ## Who We Are
 
