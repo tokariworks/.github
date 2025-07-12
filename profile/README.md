@@ -4,7 +4,7 @@ _A development collective writing systems as carefully as it writes stories._
 
 ## Who We Are
 
-**TokariWorks** is an interdisciplinary team based, focused on the development of visual novels and the tools that power them.
+**Tokari Works** is an interdisciplinary team based, focused on the development of visual novels and the tools that power them.
 
 We operate at the intersection of **software engineering**, **narrative systems**, and **aesthetic design**, crafting visual experiences that balance **technical depth** with **emotional intent**.
 
@@ -39,10 +39,10 @@ We don’t just tell stories. We design how stories move.
 ## About the Team
 
 > _"We are not a studio. We are a structure for stories."_  
-> TokariWorks is a collaborative development unit — technical, narrative, visual.  
+> Tokari Works is a collaborative development unit — technical, narrative, visual.  
 Our background ranges from systems architecture to literary design.  
 We build the scaffolding that lets emotion take shape.
 
-© TokariWorks. All rights reserved.
+© Tokari Works. All rights reserved.
 
-![TokariWorks Viewers](https://count.getloli.com/@torakiworks?name=torakiworks&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto)
+![Tokari Works Viewers](https://count.getloli.com/@torakiworks?name=torakiworks&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto)
