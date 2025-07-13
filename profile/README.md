@@ -27,9 +27,6 @@ We operate at the intersection of **software engineering**, **narrative systems*
 
 ## Development Philosophy 開発思想
 
-We don’t merely present stories \
-**We engineer how stories move.**
-
 - Emotions are treated as **architectures**
 - Choices are designed as **intersections**
 - Systems are constructed to be **narratively reactive**
