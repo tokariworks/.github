@@ -44,5 +44,3 @@ Our methodology integrates literary sensitivity with engineering discipline.
 Tokari Works is not defined by production, but by **construction**.  
 From narrative engineers to visual technologists, we build expressive frameworks that give shape to emotion, intention, and choice.  
 Our collective combines **computational fluency** with **editorial precision** to enable literary systems that endure.
-
-© Tokari Works. All rights reserved.
