@@ -8,7 +8,6 @@
   [![Org Type](https://img.shields.io/badge/type-collective-black?style=flat-square)](#)
   [![Guideline](https://img.shields.io/badge/docs-guidelines-black?style=flat-square)](https://github.com/tokariworks/guidelines) \
   [![GitHub Followers](https://img.shields.io/github/followers/tokariworks?style=flat-square&label=Followers)](https://github.com/tokariworks?tab=followers)
-  [![Stars](https://img.shields.io/github/stars/tokariworks?style=flat-square&label=Stars)](https://github.com/tokariworks?tab=stars)
   [![Focus](https://img.shields.io/badge/focus-visual%20novels-blue?style=flat-square)](#)
   [![Contact](https://img.shields.io/badge/contact-tokariworks@gmail.com-blue?style=flat-square)](mailto:tokariworks@gmail.com)
     
