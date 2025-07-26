@@ -16,8 +16,6 @@
   
   ## Who We Are 私たちは誰ですか
   
-  _"We are not a studio. We are a structure for stories."_
-  
   **Tokari Works** is an interdisciplinary team based, focused on the development of visual novels and the tools that power them.
   
   We operate at the intersection of **software engineering**, **narrative systems**, and **aesthetic design**, crafting visual experiences that balance **technical depth** with **emotional intent**.
